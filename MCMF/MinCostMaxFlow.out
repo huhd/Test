@@ -1,0 +1,3 @@
+MaxFlow = 11
+MinCost(MaxFlow) = 55.000000
+Duration = 0.001000 seconds
